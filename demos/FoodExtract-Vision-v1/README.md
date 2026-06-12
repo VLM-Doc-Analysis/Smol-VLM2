@@ -23,4 +23,8 @@ Or for an image of food:
 {'is_food': 1, 'image_title': 'fried calamari', 'food_items': ['fried calamari'], 'drink_items': []}
 ```
 
-Note: This README.md was authored in a live tutorial recorded for YouTube (link coming soon).
+Note: This README.md was authored in a live tutorial recorded for YouTube (https://youtu.be/_EMfJSmLSKE?si=qI2U4sRg45XQQlSW).
+
+Huggingface Space App : https://huggingface.co/spaces/jhkim3217/FoodExtract-Vision-v1/commit/458fe90161cdeb2c30e3408bc528be97953538f2
+
+
