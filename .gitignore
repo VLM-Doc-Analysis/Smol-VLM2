@@ -1,0 +1,9 @@
+# Fine-tuned model checkpoint (1GB+, hosted on HuggingFace Hub)
+smolvlm2-500m-FoodExtract-Vision-v1-VIDEO/
+*.safetensors
+
+# Editor / OS
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
