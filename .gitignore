@@ -2,6 +2,12 @@
 smolvlm2-500m-FoodExtract-Vision-v1-VIDEO/
 *.safetensors
 
+# Demo example images (referenced by app.py at runtime, not version-controlled)
+demos/**/examples/*.jpg
+demos/**/examples/*.jpeg
+demos/**/examples/*.png
+demos/**/examples/*.webp
+
 # Editor / OS
 .vscode/
 .ipynb_checkpoints/
